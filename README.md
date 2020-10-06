@@ -10,6 +10,6 @@ The folders under *./data/train/*, *./data/test/* and *../src/* is the standard 
 
 Image data folders are not uploaded. If your want to know where to put your image data in this project, see the image below:
 
-
+![example](https://github.com/EMUNES/MS-TreeClassifier/blob/main/folder%20structure%20example.PNG)
 
 After all, each folder stands for a certain type of tree and holds all the images (leaves images) for that tree. You need to make sure in *data/train/*, *data/test/* and *src/* there are the same folders.
