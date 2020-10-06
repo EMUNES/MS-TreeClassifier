@@ -1,3 +1,5 @@
+This the repository for MasterMind Tree Classifier.
+
 This file should be in the direct child folder of *TreeClassifier*.
 
 - train.ipynb: contains all the codes you need to train a deep learning model.
