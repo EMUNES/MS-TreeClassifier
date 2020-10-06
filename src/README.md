@@ -1,0 +1,1 @@
+This is the place where you hold your row images collected from the Internet. You can directly run *utils.ipynb* to resize images from a certain folder under this folder and store all images it resized to another folder under *./data/train/*. See *utils.ipynb* for codes that resize and store resized images.
