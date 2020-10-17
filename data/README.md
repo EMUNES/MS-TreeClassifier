@@ -2,6 +2,8 @@
 ### we need more data
 ### we need more data
 
+This is place where you hold your data for model training and model testing.
+
 I only used a few data to test whether codes run normally. Folders as *Gauva* and *Jamun* are not needed (we do need Chinar though). They are just for testing.
 
 WE NEED TO:
